@@ -1,1 +1,1 @@
-Machine Learning Term Project at Gachon University
+Machine Learning Term Project (Team7) at Gachon University
